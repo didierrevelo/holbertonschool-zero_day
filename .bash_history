@@ -1,122 +1,265 @@
+git init
+git status
+git add .
+git commit -m "first"
+git push origin master
+git status
+ls
+git add .
+git rm --.cache
+git rm .cache
+git rm -r .cache
+git add .
+git push -m origin master
+git push origin master
+git status
+git rm .vbox_version
+git status
+git push origin master
 sudo apt-get update
 sudo apt-get upgrade
-mkdir boom
-cd boom
-echo "# boom" >> README.md
+sudo apt-get install emacs
+git status
+echo "# holbertonschool-zero_day" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/didierrevelo/boom.git
+git remote add origin https://github.com/didierrevelo/holbertonschool-zero_day.git
 git push -u origin master
-ls-la
-ls -ls
-ls
-git init
-ls -la
-cd
-sudo apt-get update
-sudo apt-get upgrade
-su
-sudo
-sudo apt-get install emacs
-mkdir holbertonschool-zero_day
+git status
+git rm -r .ssh
+git status
+git rm .bash_history
+git status
+git rm bash_logout
+git status
+git rm .bash_logout
+git rm .bashrc
+git rm .gitconfig
+git status
+git rm .profile
+git rm .sudo_as_admin_successful
+git rm .wget-hsts
+git status 
+git push origin master
+git status
 ls
 cd holbertonschool-zero_day
+ls
+git add .
+git push origin master
+git status
+ls
+cd 0x00-vagrant
 ls
 emacs README.md
 ls
-lessREADME.md
-less README.md
+uname
+emacs 0-hello_ubuntu
+LS
 ls
-git add test
-git clone
-git add test
+emacs 0-hello_ubuntu
+git add .
+git commit -m "my first file"
+git push origin master
+git push
 cd
-git init
+cd 0x00-vagrant
 cd holbertonschool-zero_day
-git add.
+git status
+git push origin master
+git status
 git add .
-git add test
+git push origin master
+git status
+uname
+cd 0x00-vagrant
+ls
+emacs 0-hello_ubuntu
 git add .
-git remote add origin https://github.com/didierrevelo/holbertonschool-zero_day.git
-git push -u origin master
+git push origin master
+cd
+cd holbertonschool-zero_day
+git status
+git add .
+git push origin master
+git status
+git add .
+git push origin master
+git status
+cd 0x00-vagrant
+ls
+git status
+git push 
+git push origin master
+git add .
+git push origin master
+git staus
+git status
+git reset
+git status
+git add .
+git push origin master
+cd
+cd holbertonschool-zero_day
+ls
+git add .
+git push origin master
+git status
+git add 0x00-vagrant
+git push origin master
+git add 0x00-vagrant
+git push origin master
+git status
+git checkout -- 0x00-vagrant
+git status
+git push origin master
+git init
+git add .
+git push origin master
+git init
+git status
+cd 0x00-vagrant
+ls
+git status
+root
+us
+sudo
+ls
+cd holbertonschool-zero_day
+ls
+cd 0x00-vagrant
+ls
+git init
+git status
+git emacs 0-hello_ubuntu
+emacs 0-hello_ubuntu
+git add .
+git commit -m "correction"
+git push origin master
+git config --global --edit
+git status
+git push origin master
+git pull
+cd
+git status
+git add .
+git push origin master
+git status
+cd holbertonschool-zero_day
+ls
+git add .
+git push origin master
+git reset
+git status
+git add .
+git commit -m "this the other side"
+git config --global user.name "didierrevelo"
+git push origin master
+git pull
+cd
+git pull
+git pull
+git pull
+git status
+git add .
+git push origin master
+git reset
+git status
+git pull
+ls
+git init
+git status
+git add .
+git commit -a "hello"
+git push origin master
+git push origin master
+git config --global user.name ""
+git status
+git add .
+git push origin master
+ls
+rm -r holbertonschool-zero_day
+git rm -r holbertonschool-zero_day
+git status
+git add .
+git push origin master
+git status
+ls
+cd holbertonschool-zero_day
+ls
+git reset
+git status
+echo "# holbertonschool-zero_day" >> README.md
+git init
+git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/didierrevelo/holbertonschool-zero_day.git
 git push -u origin master
 ls
-emacs README.md
-mkdir 0x00-vagrant
-ls
-cd 0x00-vagrant
-emacs README.md
-ls
-cs holbertonschool-zero_day
-cd holbertonschool-zero_day
-ls
 cd 0x00-vagrant
 ls
 emacs README.md
-LS
 ls
-emacs '#README.md#'
-rm '#README.md#'
-ls
-git init
-git add .
-git test
-git add test
-git commit -m "new directory for work"
-git init
-git commit -m "new directory for work"
-git push
-git push origin master
+emacs README.md
+cd 0-hello_ubuntu
+emacs 0-hello_ubuntu
 git status
-git init
-git add .
-git commit -m "new directory for work"
-git push origin master
-git push
-git
-git reset
-git push
-git clone https://github.com/didierrevelo/holbertonschool-zero_day.git
-ls
+cd holbertonschool-zero_day
 cd
 cd holbertonschool-zero_day
-cd 0x00-vagrant
-cd holbertonschool-zero_day
 ls
-cd 0x00-vagrant
-cd 
-cd holbertonschool-zero_day
-cd 0x00-vagrant
-ls
-rm holbertonschool-zero_day
-ls
-rm holbertonschool-zero_day
+git add .
+cd
+git  add .
+git reset
+git init
+git status
+git add .
+git pull
+git status
 rm -r holbertonschool-zero_day
 ls
-rm holbertonschool-zero_day
-git status
-cd
-cd hobertonschool-zero
+ls
 cd holbertonschool-zero_day
 ls
-rm 0x00-vagrant
+cd
+emacs README.md
+git rm -r holbertonschool-zero_day
+ls
+cd holbertonschool-zero_day
+ls
 rm -r 0x00-vagrant
-cd 0x00-vagrant
+sudo rm -r 0x00-vagrant
+ls
+git status
+git add .
+git push origin master
+git push origin master
+clear
+git status
+git pull
+git push
+cd
+ls
 sudo rm -r holbertonschool-zero_day
 ls
-uname
-emacs
+git add .
+git push origin master
+git status
+ls
+echo "# holbertonschool-zero_day" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/didierrevelo/holbertonschool-zero_day.git
+git push -u origin master
+ls
+mkdir holbertonschool-zero_day
+ls
+emacs README.md
+emacs README.md
+emacs README.md
 emacs README.md
 ls
-git init
-git add .
-git commit -m "mi firts git"
-git push origin master
-git add *
-git commit -m "ny firts file"
-git push origin master
-git pull
-git config --global user.name "didierrevelo"
+clear
